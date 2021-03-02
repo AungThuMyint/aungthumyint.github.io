@@ -19,6 +19,12 @@
 * Key 05
 > ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNEVodklNeFFqc3U=@178.62.89.132:53634/?outline=1
 
+* Key 06
+> ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkkzYlFsc2xrYXk=@178.62.89.132:53634/?outline=1
+
+* Key 07
+> ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnZnhsczdyVEpPN1c=@178.62.89.132:53634/?outline=1
+
 # Outline VPN Setup Video
 
 > __[Tutorial Video Download](https://drive.google.com/file/d/17cR-jKlaUKzCyL4gzCdhQ7fqvLw6ksal/view)__

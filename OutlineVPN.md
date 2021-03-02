@@ -25,4 +25,4 @@
 
 # Screenshot
 
-> __[View Here](https://github.com/AungThuMyint/aungthumyint.github.io/blob/main/me/OutlineVPN.png)__
+![View](https://github.com/AungThuMyint/aungthumyint.github.io/blob/main/me/OutlineVPN.png)

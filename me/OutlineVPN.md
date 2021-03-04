@@ -4,19 +4,19 @@
 
 # Outline VPN Key
 
-* Key 01
+* Key 01 *- Server Unreachable*
 > ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQanIzdUJ5YjA1OHg=@54.153.6.96:55495/?outline=1
 
-* Key 02
+* Key 02 *- Server Unreachable*
 > ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSQ1J3SWdOSDd6ZDM=@54.153.6.96:55495/?outline=1
 
-* Key 03
+* Key 03 *- Server Unreachable*
 > ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMk1ERHpOTURxTWc=@54.153.6.96:55495/?outline=1
 
-* Key 04
+* Key 04 *- Server Unreachable*
 > ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDWEFhd2VNd0xQZ3k=@178.62.89.132:53634/?outline=1
 
-* Key 05
+* Key 05 *- Server Unreachable*
 > ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNEVodklNeFFqc3U=@178.62.89.132:53634/?outline=1
 
 * Key 06

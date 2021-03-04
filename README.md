@@ -1,7 +1,10 @@
 # My GitHub Site & Link Collection
 
-* Outline VPN => [View](https://github.com/AungThuMyint/aungthumyint.github.io/blob/main/me/OutlineVPN.md)
+*Outline VPN*
+> Click Here To [View](https://github.com/AungThuMyint/aungthumyint.github.io/blob/main/me/OutlineVPN.md)
 
-* [1.1.1.1 VPN](https://github.com/AungThuMyint/1.1.1.1/blob/main/README.md)
+*1.1.1.1 VPN*
+> Click Here To [View](https://github.com/AungThuMyint/1.1.1.1/blob/main/README.md)
 
-* [Microsoft Activation Scripts Version (0.9)](https://raw.githubusercontent.com/AungThuMyint/aungthumyint.github.io/main/me/MAS.zip)
+*Microsoft Activation Scripts Version (0.9)*
+> Click Here To [Download](https://raw.githubusercontent.com/AungThuMyint/aungthumyint.github.io/main/me/MAS.zip)
